@@ -1,0 +1,10 @@
+{
+  "name": "Compass",
+  "version": "1.0.0",
+  "description": "A futuristic HUD compass: live heading with magnetic and true north, Qibla direction, GPS coordinates, bearing mark, magnetic interference warning and a spirit level.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "category": "Tools",
+  "containsAds": false,
+  "type": "app"
+}
